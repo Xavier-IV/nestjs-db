@@ -28,8 +28,11 @@
 
 ## Installation
 
+Be sure to have docker install.
+
 ```bash
 $ npm install
+$ docker-compose up
 ```
 
 ## Running the app
